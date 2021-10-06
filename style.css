@@ -1,0 +1,27 @@
+.line1 {
+    display:list-item;
+}
+
+.line2 {
+    display: inline;
+}
+
+.line3 {
+    display: inline;
+}
+
+.line4 {
+    display: inline;
+}
+
+.line5 {
+    display: block;
+}
+
+.line6 {
+    display: inline;
+}
+
+.line7 {
+    display: inline;
+}
